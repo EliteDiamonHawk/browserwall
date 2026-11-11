@@ -1,6 +1,12 @@
 # BrowserWall
 
-`BrowserWall` is a collection web browser based wallpapers that are modified forks of `wv2wall` by Superswan (see credits).
+`BrowserWall` is a collection of web browser based wallpaper renderers, allowing users to create a wallpaper based on html, css, and javascript.
+
+## Why?
+
+Each has their own advantages and disadvantages. 
+
+For example: if you used wv2wall but your default browser is not wv2wall based, that means you will have to have a costly wv2wall process taking up your resources in the background
 
 ## The Collection
 
@@ -8,13 +14,13 @@
 
 see [modified-wv2wall](https://github.com/EliteDiamonHawk/wv2wall)
 
-- forked wv2wall with minor feature additions.
+- forked wv2wall from `Superswan`(see credits) with minor feature additions.
 
 ### chromiumwall
 
 see [chromiumwall](https://github.com/EliteDiamonHawk/chromiumwall)
 
-- expanded version to support chromium based browsers
+- expanded version to support all chromium based browsers
 - set to your default browser so that the wallpaper can share resources with it.
 
 ### ultralightwall
