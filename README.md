@@ -39,4 +39,4 @@ see [ultralight-widgetwall](https://github.com/EliteDiamonHawk/ultralight-widget
 ## License
 MIT
 - See `LICENSE` file for this repo
-- See `Superswan/LICENSE` file for upstream code
+- See `Superswan/LICENSE` file for upstream code for modified-wv2wall and other projects based on wv2wall
