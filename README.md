@@ -25,9 +25,9 @@ see [ultralightwall](https://github.com/EliteDiamonHawk/ultralightwall)
 
 - version that uses the ultralight framework instead of the resouce heavy web browsers such as wv2 and chromium.
 
-### ultralight-widgetwall
+### ultralightwidgets
 
-see [ultralight-widgetwall](https://github.com/EliteDiamonHawk/ultralight-widgetwall)
+see [ultralightwidgets](https://github.com/EliteDiamonHawk/ultralightwidgets)
 
 - ultralightwall modified to widgets only, covering only parts of the screen instead of the whole screen, therefore saving resources further.
 
