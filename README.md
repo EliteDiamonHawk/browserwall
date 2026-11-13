@@ -6,7 +6,7 @@
 
 ### ultralightui-shell
 
-see [ultralightui-shell]([https://github.com/EliteDiamonHawk/ultralightwall](https://github.com/EliteDiamonHawk/ultralightui-shell))
+see [ultralightui-shell](https://github.com/EliteDiamonHawk/ultralightui-shell)
 
 - Uses the ultralight framework instead of the resouce heavy web browsers such as wv2 and chromium.
 - also contains support for widgets, a start menu, and perhaps more.
